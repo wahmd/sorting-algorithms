@@ -1,5 +1,6 @@
 // time complexity = O(n lgn);
-// auxilary space = 
+// auxilary space = O(n)
+// stable = true
 
 function mergeSort(nums, s, e) {
     if(s < e) {
